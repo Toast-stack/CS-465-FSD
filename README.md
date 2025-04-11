@@ -57,3 +57,6 @@ Effective testing of API endpoints is crucial to ensure reliable request and ret
 This course has been instrumental in advancing my professional development by providing hands-on experience in full stack development using the MEAN stack. I've gained a deeper understanding of integrating various technologies to build dynamic web applications. The skills acquired, including frontend and backend development, database management, and API testing, have enhanced my versatility as a developer and expanded my career opportunities in the tech industry.
 
 While I may not pursue a dedicated career in full stack development, the insights and competencies gained have broadened my appreciation for web development and equipped me with valuable skills applicable in various professional contexts.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
